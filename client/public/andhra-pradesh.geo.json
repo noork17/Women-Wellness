@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"districtId":"srikakulam","name":"Srikakulam"},"geometry":{"type":"Polygon","coordinates":[[[84,18.5],[84.3,18.5],[84.3,18.2],[84,18.2],[84,18.5]]]}},
+    {"type":"Feature","properties":{"districtId":"vizianagaram","name":"Vizianagaram"},"geometry":{"type":"Polygon","coordinates":[[[83.2,18.2],[83.8,18.2],[83.8,17.8],[83.2,17.8],[83.2,18.2]]]}},
+    {"type":"Feature","properties":{"districtId":"visakhapatnam","name":"Visakhapatnam"},"geometry":{"type":"Polygon","coordinates":[[[82.8,17.9],[83.5,17.9],[83.5,17.4],[82.8,17.4],[82.8,17.9]]]}},
+    {"type":"Feature","properties":{"districtId":"eastgodavari","name":"East Godavari"},"geometry":{"type":"Polygon","coordinates":[[[81.8,17.2],[82.5,17.2],[82.5,16.5],[81.8,16.5],[81.8,17.2]]]}},
+    {"type":"Feature","properties":{"districtId":"westgodavari","name":"West Godavari"},"geometry":{"type":"Polygon","coordinates":[[[81,17],[81.8,17],[81.8,16.5],[81,16.5],[81,17]]]}},
+    {"type":"Feature","properties":{"districtId":"krishna","name":"Krishna"},"geometry":{"type":"Polygon","coordinates":[[[80.2,16.8],[81,16.8],[81,16.2],[80.2,16.2],[80.2,16.8]]]}},
+    {"type":"Feature","properties":{"districtId":"guntur","name":"Guntur"},"geometry":{"type":"Polygon","coordinates":[[[79.5,16.8],[80.5,16.8],[80.5,15.8],[79.5,15.8],[79.5,16.8]]]}},
+    {"type":"Feature","properties":{"districtId":"prakasam","name":"Prakasam"},"geometry":{"type":"Polygon","coordinates":[[[79.2,16],[80.2,16],[80.2,15.2],[79.2,15.2],[79.2,16]]]}},
+    {"type":"Feature","properties":{"districtId":"nellore","name":"S.P.S. Nellore"},"geometry":{"type":"Polygon","coordinates":[[[79.2,14.8],[80,14.8],[80,14.2],[79.2,14.2],[79.2,14.8]]]}},
+    {"type":"Feature","properties":{"districtId":"chittoor","name":"Chittoor"},"geometry":{"type":"Polygon","coordinates":[[[78.5,13.8],[79.5,13.8],[79.5,12.8],[78.5,12.8],[78.5,13.8]]]}},
+    {"type":"Feature","properties":{"districtId":"kadapa","name":"Y.S.R. Kadapa"},"geometry":{"type":"Polygon","coordinates":[[[78,14.8],[79.2,14.8],[79.2,13.8],[78,13.8],[78,14.8]]]}},
+    {"type":"Feature","properties":{"districtId":"anantapur","name":"Anantapur"},"geometry":{"type":"Polygon","coordinates":[[[76.5,15.2],[78,15.2],[78,14.2],[76.5,14.2],[76.5,15.2]]]}},
+    {"type":"Feature","properties":{"districtId":"kurnool","name":"Kurnool"},"geometry":{"type":"Polygon","coordinates":[[[76.5,16],[78,16],[78,15.2],[76.5,15.2],[76.5,16]]]}}
+  ]
+}

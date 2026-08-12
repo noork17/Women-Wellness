@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 99%;
+    --foreground: 215 25% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 12%;
+    --primary: 172 66% 40%;
+    /* Teal - Medical trust */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 215 25% 18%;
+    /* Slate */
+    --secondary-foreground: 210 40% 98%;
+    --muted: 210 20% 96%;
+    --muted-foreground: 215 16% 45%;
+    --accent: 160 60% 45%;
+    /* Emerald - Health/wellness */
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 20% 91%;
+    --input: 214 20% 91%;
+    --ring: 172 66% 40%;
+    --radius: 1rem;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-xl border border-slate-200/60 shadow-lg shadow-slate-200/50;
+  }
+
+  .premium-input {
+    @apply bg-white border border-slate-200 focus:border-primary focus:ring-2 focus:ring-primary/20 transition-all duration-200 rounded-xl px-4 py-3 outline-none text-slate-800 placeholder:text-slate-400;
+  }
+
+  .premium-input option {
+    @apply text-slate-800 bg-white;
+  }
+
+  .premium-button {
+    @apply relative overflow-hidden bg-primary hover:bg-primary/90 text-white font-semibold py-3 px-6 rounded-xl shadow-md hover:shadow-lg hover:shadow-primary/25 active:scale-[0.98] transition-all duration-200 focus:ring-2 focus:ring-primary/30 focus:ring-offset-2;
+  }
+
+  .floating-blob {
+    @apply absolute blur-[100px] opacity-30;
+  }
+
+  /* Feature: Skeleton loader */
+  .skeleton {
+    @apply animate-pulse bg-slate-200 rounded;
+  }
+
+  /* Feature: Back-to-top */
+  .back-to-top {
+    @apply fixed bottom-8 left-8 z-40 p-3 rounded-full bg-primary text-white shadow-lg hover:shadow-xl transition-all hover:scale-105;
+  }
+
+  /* Feature: Status badge pulse */
+  .status-pulse {
+    @apply relative before:absolute before:inset-0 before:rounded-full before:animate-ping before:bg-current before:opacity-30;
+  }
+
+  /* Feature: Card hover lift */
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+  }
+
+  /* Feature: Focus ring accessibility */
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2;
+  }
+
+  /* Feature: Print styles */
+  @media print {
+    .no-print { display: none !important; }
+    body { background: white; }
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-20px) rotate(5deg);
+  }
+
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 15s ease infinite;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/20;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
