@@ -1,0 +1,12 @@
+{
+  "patientId": "gdatg",
+  "patientName": "gadag",
+  "patientNumber": "dag",
+  "visitId": "SETV-KUNMRI-210120252308",
+  "patientAge": "dag",
+  "gender": "female",
+  "video": "blob:http://localhost:5173/4fb4b339-d181-46fd-b5df-70ae8a2a3c79",
+  "report": "blob:http://localhost:5173/0e308d45-3fbb-42e6-9f3a-689679c6f1e7",
+  "visitDate": "21/1/2025",
+  "visitTime": "11:08:07 pm"
+}

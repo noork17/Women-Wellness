@@ -1,0 +1,12 @@
+{
+  "patientId": "kum12",
+  "patientName": "kumar",
+  "patientNumber": "123345363646",
+  "visitId": "SETV-kumULTS-130220252040",
+  "patientAge": "56",
+  "gender": "other",
+  "video": "/uploads/1739459423085.mp4",
+  "report": null,
+  "visitDate": "13/2/2025",
+  "visitTime": "8:40:23 pm"
+}

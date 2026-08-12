@@ -1,0 +1,12 @@
+{
+  "patientId": "av12",
+  "patientName": "avni",
+  "patientNumber": "1223443455",
+  "visitId": "SETV-KUNMRI-130220251934",
+  "patientAge": "23",
+  "gender": "other",
+  "video": "/uploads/1739455445986.mp4",
+  "report": null,
+  "visitDate": "13/2/2025",
+  "visitTime": "7:34:06 pm"
+}

@@ -1,0 +1,12 @@
+{
+  "patientId": "145",
+  "patientName": "tvz",
+  "patientNumber": "1747",
+  "visitId": "SETV-KUNMRI-220120252250",
+  "patientAge": "34",
+  "gender": "female",
+  "video": "blob:http://localhost:5173/1968dc1b-57e5-4922-9a6e-5e0290f1028b",
+  "report": "blob:http://localhost:5173/e35491f4-f726-466f-99f2-a49103be32a4",
+  "visitDate": "22/1/2025",
+  "visitTime": "10:50:33 pm"
+}

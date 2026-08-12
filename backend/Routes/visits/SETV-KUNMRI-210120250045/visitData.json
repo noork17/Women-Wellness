@@ -1,0 +1,12 @@
+{
+  "patientId": "sfh",
+  "patientName": "fgs",
+  "patientNumber": "fsh",
+  "visitId": "SETV-KUNMRI-210120250045",
+  "patientAge": "fsh",
+  "gender": "male",
+  "video": {},
+  "report": "blob:http://localhost:5173/8666c3ab-d402-498f-a892-5f70a4b9dc45",
+  "visitDate": "21/1/2025",
+  "visitTime": "12:45:40 am"
+}

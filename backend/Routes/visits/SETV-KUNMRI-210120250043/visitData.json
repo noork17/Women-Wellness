@@ -1,0 +1,11 @@
+{
+  "patientId": "dfh",
+  "patientName": "hdf",
+  "patientNumber": "dfh",
+  "visitId": "SETV-KUNMRI-210120250043",
+  "patientAge": "fdh",
+  "gender": "male",
+  "report": "blob:http://localhost:5173/10723b0f-7f36-40ff-a36e-7f36f4c7edc0",
+  "visitDate": "21/1/2025",
+  "visitTime": "12:43:31 am"
+}

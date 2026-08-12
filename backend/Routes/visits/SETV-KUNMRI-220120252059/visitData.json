@@ -1,0 +1,12 @@
+{
+  "patientId": "hsfh",
+  "patientName": "fshfshwyr",
+  "patientNumber": "rwyryrwy",
+  "visitId": "SETV-KUNMRI-220120252059",
+  "patientAge": "ahadh",
+  "gender": "female",
+  "video": "blob:http://localhost:5173/2fafac12-a29b-47f6-9987-9b9309e6be28",
+  "report": "blob:http://localhost:5173/8bce14fa-fa23-4bac-8f5a-1bb986e880bb",
+  "visitDate": "22/1/2025",
+  "visitTime": "8:59:42 pm"
+}

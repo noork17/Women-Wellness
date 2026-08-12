@@ -1,0 +1,12 @@
+{
+  "patientId": "dh",
+  "patientName": "sdfh",
+  "patientNumber": "dah",
+  "visitId": "SETV-KUNMRI-210120252315",
+  "patientAge": "da",
+  "gender": "female",
+  "video": "blob:http://localhost:5173/1cad9c63-879f-4d24-bef5-fcd0561fc518",
+  "report": "blob:http://localhost:5173/676d4a13-17b8-4d5f-a212-0eb962055223",
+  "visitDate": "21/1/2025",
+  "visitTime": "11:15:52 pm"
+}

@@ -1,0 +1,12 @@
+{
+  "patientId": "121233",
+  "patientName": "xyz",
+  "patientNumber": "123313",
+  "visitId": "SETV-KUNMRI-210120250058",
+  "patientAge": "20",
+  "gender": null,
+  "video": "blob:http://localhost:5173/c9621408-6299-4972-a1d9-95d3f17d7496",
+  "report": "blob:http://localhost:5173/28ba842c-c43c-4edf-b853-dd940093b5d2",
+  "visitDate": "21/1/2025",
+  "visitTime": "12:58:57 am"
+}

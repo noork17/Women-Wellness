@@ -1,0 +1,12 @@
+{
+  "patientId": "kun12",
+  "patientName": "kunal",
+  "patientNumber": "32342`424",
+  "visitId": "SETV-KUNMRI-220120252348",
+  "patientAge": "20",
+  "gender": "female",
+  "video": "blob:http://localhost:5173/31cdd2f7-6ddb-471c-96e8-7a00e59a4672",
+  "report": "blob:http://localhost:5173/71e68e1e-8a51-4256-b797-cfa7ca927f6a",
+  "visitDate": "22/1/2025",
+  "visitTime": "11:48:34 pm"
+}

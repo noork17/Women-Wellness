@@ -1,0 +1,10 @@
+setuptools==75.8.0
+wheel==0.45.1
+flask
+flask-cors      # used for Cross-Origin Resource Sharing (CORS) support
+opencv-python   # OpenCV package for computer vision tasks
+ultralytics     # YOLO model
+numpy           # for numerical operations (often used with OpenCV)
+fpdf
+Pillow          # python Imaging Library (PIL) for image processing
+matplotlib      # plotting graphs and charts.

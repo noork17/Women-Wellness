@@ -1,0 +1,12 @@
+{
+  "patientId": "23012025",
+  "patientName": "omkar23",
+  "patientNumber": "f23012025",
+  "visitId": "SETV-KUNMRI-230120250005",
+  "patientAge": "20",
+  "gender": "other",
+  "video": "blob:http://localhost:5173/2a683ffe-68c4-483e-a5d6-82bf8f8bea08",
+  "report": "blob:http://localhost:5173/afb336b1-f6aa-424b-af2b-2611834af702",
+  "visitDate": "23/1/2025",
+  "visitTime": "12:05:02 am"
+}

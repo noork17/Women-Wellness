@@ -1,0 +1,12 @@
+{
+  "patientId": "kl",
+  "patientName": "kl",
+  "patientNumber": "kl0",
+  "visitId": "SETV-KUNMRI-230120250030",
+  "patientAge": "12",
+  "gender": "female",
+  "video": "/uploads/1737572443153.mp4",
+  "report": null,
+  "visitDate": "23/1/2025",
+  "visitTime": "12:30:43 am"
+}

@@ -1,0 +1,12 @@
+{
+  "patientId": "213",
+  "patientName": "vicky",
+  "patientNumber": "vick213",
+  "visitId": "SETV-KUNMRI-230120250028",
+  "patientAge": "23",
+  "gender": "female",
+  "video": "/uploads/1737572282744.mp4",
+  "report": null,
+  "visitDate": "23/1/2025",
+  "visitTime": "12:28:02 am"
+}

@@ -1,0 +1,12 @@
+{
+  "patientId": "aar12",
+  "patientName": "aarthi",
+  "patientNumber": "12314434354",
+  "visitId": "SETV-KUNMRI-130220251927",
+  "patientAge": "23",
+  "gender": "other",
+  "video": "/uploads/1739455065307.mp4",
+  "report": null,
+  "visitDate": "13/2/2025",
+  "visitTime": "7:27:45 pm"
+}
